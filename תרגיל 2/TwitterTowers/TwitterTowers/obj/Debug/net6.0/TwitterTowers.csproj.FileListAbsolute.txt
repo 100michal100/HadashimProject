@@ -1,0 +1,15 @@
+D:\Users\מיכל\Desktop\פרויקט הדסים\תרגיל 2\TwitterTowers\TwitterTowers\bin\Debug\net6.0\TwitterTowers.exe
+D:\Users\מיכל\Desktop\פרויקט הדסים\תרגיל 2\TwitterTowers\TwitterTowers\bin\Debug\net6.0\TwitterTowers.deps.json
+D:\Users\מיכל\Desktop\פרויקט הדסים\תרגיל 2\TwitterTowers\TwitterTowers\bin\Debug\net6.0\TwitterTowers.runtimeconfig.json
+D:\Users\מיכל\Desktop\פרויקט הדסים\תרגיל 2\TwitterTowers\TwitterTowers\bin\Debug\net6.0\TwitterTowers.dll
+D:\Users\מיכל\Desktop\פרויקט הדסים\תרגיל 2\TwitterTowers\TwitterTowers\bin\Debug\net6.0\TwitterTowers.pdb
+D:\Users\מיכל\Desktop\פרויקט הדסים\תרגיל 2\TwitterTowers\TwitterTowers\obj\Debug\net6.0\TwitterTowers.csproj.AssemblyReference.cache
+D:\Users\מיכל\Desktop\פרויקט הדסים\תרגיל 2\TwitterTowers\TwitterTowers\obj\Debug\net6.0\TwitterTowers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\מיכל\Desktop\פרויקט הדסים\תרגיל 2\TwitterTowers\TwitterTowers\obj\Debug\net6.0\TwitterTowers.AssemblyInfoInputs.cache
+D:\Users\מיכל\Desktop\פרויקט הדסים\תרגיל 2\TwitterTowers\TwitterTowers\obj\Debug\net6.0\TwitterTowers.AssemblyInfo.cs
+D:\Users\מיכל\Desktop\פרויקט הדסים\תרגיל 2\TwitterTowers\TwitterTowers\obj\Debug\net6.0\TwitterTowers.csproj.CoreCompileInputs.cache
+D:\Users\מיכל\Desktop\פרויקט הדסים\תרגיל 2\TwitterTowers\TwitterTowers\obj\Debug\net6.0\TwitterTowers.dll
+D:\Users\מיכל\Desktop\פרויקט הדסים\תרגיל 2\TwitterTowers\TwitterTowers\obj\Debug\net6.0\refint\TwitterTowers.dll
+D:\Users\מיכל\Desktop\פרויקט הדסים\תרגיל 2\TwitterTowers\TwitterTowers\obj\Debug\net6.0\TwitterTowers.pdb
+D:\Users\מיכל\Desktop\פרויקט הדסים\תרגיל 2\TwitterTowers\TwitterTowers\obj\Debug\net6.0\TwitterTowers.genruntimeconfig.cache
+D:\Users\מיכל\Desktop\פרויקט הדסים\תרגיל 2\TwitterTowers\TwitterTowers\obj\Debug\net6.0\ref\TwitterTowers.dll
